@@ -1,0 +1,31 @@
+C:\Users\Tyler\Desktop\C#35\Community Care\Community Care\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Tyler\Desktop\C#35\Community Care\Community Care\bin\Debug\net6.0\appsettings.json
+C:\Users\Tyler\Desktop\C#35\Community Care\Community Care\bin\Debug\net6.0\Community Care.staticwebassets.runtime.json
+C:\Users\Tyler\Desktop\C#35\Community Care\Community Care\bin\Debug\net6.0\Community Care.exe
+C:\Users\Tyler\Desktop\C#35\Community Care\Community Care\bin\Debug\net6.0\Community Care.deps.json
+C:\Users\Tyler\Desktop\C#35\Community Care\Community Care\bin\Debug\net6.0\Community Care.runtimeconfig.json
+C:\Users\Tyler\Desktop\C#35\Community Care\Community Care\bin\Debug\net6.0\Community Care.dll
+C:\Users\Tyler\Desktop\C#35\Community Care\Community Care\bin\Debug\net6.0\Community Care.pdb
+C:\Users\Tyler\Desktop\C#35\Community Care\Community Care\obj\Debug\net6.0\Community Care.csproj.AssemblyReference.cache
+C:\Users\Tyler\Desktop\C#35\Community Care\Community Care\obj\Debug\net6.0\Community Care.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tyler\Desktop\C#35\Community Care\Community Care\obj\Debug\net6.0\Community Care.AssemblyInfoInputs.cache
+C:\Users\Tyler\Desktop\C#35\Community Care\Community Care\obj\Debug\net6.0\Community Care.AssemblyInfo.cs
+C:\Users\Tyler\Desktop\C#35\Community Care\Community Care\obj\Debug\net6.0\Community Care.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\Desktop\C#35\Community Care\Community Care\obj\Debug\net6.0\Community Care.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tyler\Desktop\C#35\Community Care\Community Care\obj\Debug\net6.0\Community Care.RazorAssemblyInfo.cache
+C:\Users\Tyler\Desktop\C#35\Community Care\Community Care\obj\Debug\net6.0\Community Care.RazorAssemblyInfo.cs
+C:\Users\Tyler\Desktop\C#35\Community Care\Community Care\obj\Debug\net6.0\staticwebassets\msbuild.Community Care.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Tyler\Desktop\C#35\Community Care\Community Care\obj\Debug\net6.0\staticwebassets\msbuild.build.Community Care.props
+C:\Users\Tyler\Desktop\C#35\Community Care\Community Care\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Community Care.props
+C:\Users\Tyler\Desktop\C#35\Community Care\Community Care\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Community Care.props
+C:\Users\Tyler\Desktop\C#35\Community Care\Community Care\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Tyler\Desktop\C#35\Community Care\Community Care\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Tyler\Desktop\C#35\Community Care\Community Care\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Tyler\Desktop\C#35\Community Care\Community Care\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Tyler\Desktop\C#35\Community Care\Community Care\obj\Debug\net6.0\scopedcss\bundle\Community Care.styles.css
+C:\Users\Tyler\Desktop\C#35\Community Care\Community Care\obj\Debug\net6.0\scopedcss\projectbundle\Community Care.bundle.scp.css
+C:\Users\Tyler\Desktop\C#35\Community Care\Community Care\obj\Debug\net6.0\Community Care.dll
+C:\Users\Tyler\Desktop\C#35\Community Care\Community Care\obj\Debug\net6.0\refint\Community Care.dll
+C:\Users\Tyler\Desktop\C#35\Community Care\Community Care\obj\Debug\net6.0\Community Care.pdb
+C:\Users\Tyler\Desktop\C#35\Community Care\Community Care\obj\Debug\net6.0\Community Care.genruntimeconfig.cache
+C:\Users\Tyler\Desktop\C#35\Community Care\Community Care\obj\Debug\net6.0\ref\Community Care.dll
