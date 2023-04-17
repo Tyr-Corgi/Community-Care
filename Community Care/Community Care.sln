@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33414.496
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Community Care", "Community Care.csproj", "{A36F542F-1ECD-4283-9EBC-7E44FAAAEA78}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Community Care", "Community Care.csproj", "{A36F542F-1ECD-4283-9EBC-7E44FAAAEA78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Community Care Test", "..\Community Care Test\Community Care Test.csproj", "{7EB37820-92FE-4CB8-9A2E-D0F526438C5D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{A36F542F-1ECD-4283-9EBC-7E44FAAAEA78}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A36F542F-1ECD-4283-9EBC-7E44FAAAEA78}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A36F542F-1ECD-4283-9EBC-7E44FAAAEA78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EB37820-92FE-4CB8-9A2E-D0F526438C5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EB37820-92FE-4CB8-9A2E-D0F526438C5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EB37820-92FE-4CB8-9A2E-D0F526438C5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EB37820-92FE-4CB8-9A2E-D0F526438C5D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

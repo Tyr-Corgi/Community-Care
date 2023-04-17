@@ -1,11 +1,21 @@
 namespace Community_Care_Test
 {
-    public class UnitTest1
+    public class MethodTests
     {
-        [Fact]
-        public void Test1()
+        public class MethodTests
         {
+            [Theory]
+            [InlineData(true, true)]
+            [InlineData(false, false)]
+            public void MedicalSeriveAvailable(bool input, bool expected)
+            {
+                // Arrage
 
+                // Act
+
+                // Assert
+                Assert.
+            }   
         }
     }
 }
