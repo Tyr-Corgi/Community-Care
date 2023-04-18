@@ -1,0 +1,6 @@
+C:\Users\Tyler\Desktop\C#35\Community Care\Community Care Test\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\Tyler\Desktop\C#35\Community Care\Community Care Test\obj\Debug\net6.0\Community Care Test.csproj.AssemblyReference.cache
+C:\Users\Tyler\Desktop\C#35\Community Care\Community Care Test\obj\Debug\net6.0\Community Care Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tyler\Desktop\C#35\Community Care\Community Care Test\obj\Debug\net6.0\Community Care Test.AssemblyInfoInputs.cache
+C:\Users\Tyler\Desktop\C#35\Community Care\Community Care Test\obj\Debug\net6.0\Community Care Test.AssemblyInfo.cs
+C:\Users\Tyler\Desktop\C#35\Community Care\Community Care Test\obj\Debug\net6.0\Community Care Test.csproj.CoreCompileInputs.cache
